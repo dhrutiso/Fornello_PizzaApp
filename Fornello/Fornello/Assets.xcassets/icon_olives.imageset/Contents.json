@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "icon_olives.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
